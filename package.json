@@ -1,0 +1,12 @@
+{
+  "name": "use-async-fetch",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sathwik",
+  "license": "MIT",
+  "description": "A custom React hook for fetching data asynchronously"
+}
